@@ -33,7 +33,7 @@ If you are also on a journey to crack DSA and want to use this structure to trac
 3. **Clone to your Local Machine:**
    ```bash
 
-  60_Days_of_DSA_And_Leetcoding/
+60_Days_of_DSA_And_Leetcoding/
 ├── dsa-notes/                         📂 Main Notes Folder
 │   ├── Month-01/                      📂 First Month
 │   │   ├── Week-01/                   📂 Week 1
