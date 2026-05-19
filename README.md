@@ -33,8 +33,7 @@ If you are also on a journey to crack DSA and want to use this structure to trac
 3. **Clone to your Local Machine:**
    ```bash
 
-   60_Days_of_DSA_And_Leetcoding/
-│
+  60_Days_of_DSA_And_Leetcoding/
 ├── dsa-notes/                         📂 Main Notes Folder
 │   ├── Month-01/                      📂 First Month
 │   │   ├── Week-01/                   📂 Week 1
@@ -44,13 +43,10 @@ If you are also on a journey to crack DSA and want to use this structure to trac
 │   │   ├── Week-02/                   📂 Week 2
 │   │   ├── Week-03/                   📂 Week 3
 │   │   └── Week-04/                   📂 Week 4
-│   │
 │   └── Month-02/                      📂 Second Month
 │       ├── Week-05/                   📂 Week 5
 │       ├── Week-06/                   📂 Week 6
 │       ├── Week-07/                   📂 Week 7
 │       └── Week-08/                   📂 Week 8
-│
 ├── README.md
 └── TRACKER.md
-   git clone [https://github.com/bkbilal009/60_Days_of_DSA_And_Leetcoding.git](https://github.com/bkbilal009/60_Days_of_DSA_And_Leetcoding.git)
