@@ -4,9 +4,12 @@ Welcome to my intensive 2-month Data Structures and Algorithms tracking sheet! T
 
 ---
 
-## 📋 Course Details
+## 📋 Course & Developer Details
 
 - **Instructor:** [Anuj Kumar (Code and Debug)](https://www.youtube.com/@codeanddebug) 👈 *Click to visit channel*
+- **Developer:** Muhammad Bilal
+- **🌐 GitHub Profile:** [bkbilal009](https://github.com/bkbilal009)
+- **💼 LinkedIn Profile:** [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-dev/)
 - **Duration:** 8 Weeks (Monday to Friday Schedule)
 - **Goal:** Master core and advanced DSA using Python with solid logic building.
 
@@ -82,7 +85,7 @@ Welcome to my intensive 2-month Data Structures and Algorithms tracking sheet! T
 | Mon | Part 88-92: Stack/Queue basics | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
 | Tue | Part 93-96: Stack problems + Sliding window | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
 | Wed | Part 97-101: More sliding window + Greedy start | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
-| Thu | Part 102-105: Greedy problems | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | 2 |
+| Thu | Part 102-105: Greedy problems | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
 | Fri | Mixed practice | [📝 Solve Problems](https://www.youtube.com/@codeanddebug) | ⬜ |
 
 ---
