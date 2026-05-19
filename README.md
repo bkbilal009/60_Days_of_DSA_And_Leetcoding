@@ -1,3 +1,5 @@
+
+
 # 🚀 60 Days of DSA & Leetcoding Challenge
 
 Welcome to my intensive 60-day Data Structures and Algorithms journey! This repository is dedicated to building robust problem-solving logic, mastering algorithmic patterns, and maintaining daily public accountability using **Python**.
@@ -12,18 +14,16 @@ The entire curriculum is structured around the comprehensive syllabus by **Anuj 
 - **Instructor / Course:** [Anuj Kumar (Code and Debug)](https://www.youtube.com/@codeanddebug)
 - **Language Used:** Python 🐍
 - **Timeline:** 2 Months (Monday - Friday Schedule)
-- **Core Objective:** Transition from writing basic syntax to architecting optimized, production-grade algorithmic solutions.
 
 ---
 
 ## 🔗 Quick Links
 
-- 📊 **Interactive Progress Sheet:** [TRACKER.md (Click here to see daily progress)](https://github.com/bkbilal009/60_Days_of_DSA_And_Leetcoding/blob/main/TRACKER.md) 👈 *Track my daily ticks!*
+- 📊 **Interactive Progress Sheet:** [TRACKER.md (Click here to see daily progress)](https://github.com/bkbilal009/60_Days_of_DSA_And_Leetcoding/blob/main/TRACKER.md)
 - 💻 **GitHub Profile:** [bkbilal009](https://github.com/bkbilal009)
 - 💼 **LinkedIn Connection:** [Muhammad Bilal](https://www.linkedin.com/in/muhammad-bilal-dev/)
 
 ---
-
 ## 🛠️ How to Use & Clone This Repo (For Beginners)
 
 If you are also on a journey to crack DSA and want to use this structure to track your own progress, feel free to fork it!
@@ -32,7 +32,11 @@ If you are also on a journey to crack DSA and want to use this structure to trac
 2. **Star the Project:** Show your support and save it to your dashboard by clicking **Star** ⭐.
 3. **Clone to your Local Machine:**
    ```bash
+---
 
+## 📂 Repository Structure
+
+```text
 60_Days_of_DSA_And_Leetcoding/
 ├── dsa-notes/                         📂 Main Notes Folder
 │   ├── Month-01/                      📂 First Month
