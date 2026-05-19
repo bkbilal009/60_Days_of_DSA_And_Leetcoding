@@ -6,7 +6,7 @@ Welcome to my intensive 2-month Data Structures and Algorithms tracking sheet! T
 
 ## 📋 Course Details
 
-- **Instructor:** [Anuj Kumar (Code and Debug)](https://www.youtube.com/@Code-With-Bilal/playlists) 
+- **Instructor:** [Anuj Kumar (Code and Debug)]((https://www.youtube.com/@codeanddebug)) 
 - **Duration:** 8 Weeks (Monday to Friday Schedule)
 - **Goal:** Master core and advanced DSA using Python with solid logic building.
 
