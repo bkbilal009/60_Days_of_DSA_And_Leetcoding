@@ -1,0 +1,40 @@
+Why is the time taken to run a code (in seconds) not an accurate measure of time complexity?,"It varies depending on hardware specifications, CPU power, and server load."
+What is the formal definition of time complexity in the context of algorithm analysis?,The rate of increase in time with respect to the input size.
+The notation used to describe the upper bound or 'worst case' of an algorithm's time complexity is _____.,Big O notation
+Which notation represents the 'best case' or lower bound of an algorithm's time complexity?,Omega notation
+What does Theta notation represent in time complexity analysis?,The average case or middle ground between the best and worst cases.
+"Rule 1: In DSA interviews, time complexity should always be calculated in terms of the _____ case.",Worst
+"Rule 2: When calculating Big O notation, what should be done with constant values (e.g., $O(3n + 15)$)?",They should be ignored or removed (simplifies to $O(n)$).
+"Rule 3: How are lower-order terms handled when determining Big O complexity (e.g., $O(n^{2} + n)$)?",They are ignored in favor of the highest-degree term (simplifies to $O(n^{2})$).
+What is the time complexity of the Python list `append()` operation?,$O(1)$ (Constant time).
+What is the time complexity of copying a list of size $n$ in Python?,$O(n)$.
+Why does removing the last element of a list using `pop()` take $O(1)$ time?,It does not require shifting any other elements in the list.
+"What is the time complexity of removing an intermediate element from a list (e.g., `pop(0)`)?",$O(n)$ (due to shifting elements to fill the gap).
+What is the time complexity of the `insert()` operation at an arbitrary index in a list?,$O(n)$ (due to the need to shift existing elements).
+"In Python lists, the operations 'Get Item' and 'Set Item' by index have a time complexity of _____.",$O(1)$
+What determines the time complexity of a 'Get Slice' operation in Python?,"$O(k)$, where $k$ is the length of the slice."
+What is the time complexity of the `len()` function for a Python list?,$O(1)$ (Python stores the length internally).
+Searching for an element using the `in` operator (membership) in a list takes _____ time.,$O(n)$
+What is the time complexity of Python's built-in `sort()` method for lists?,$O(n \log n)$.
+Finding the `min()` or `max()` value in an unsorted Python list takes _____ time.,$O(n)$
+"On average, what is the time complexity for checking membership in a Python set?",$O(1)$
+Under what condition might a set membership check in Python degrade to $O(n)$?,"In the worst case, often due to hash collisions."
+"In Python dictionaries, what is the average time complexity for the 'Get Item', 'Set Item', and 'Delete Item' operations?",$O(1)$
+What is the time complexity to iterate through all key-value pairs in a dictionary of size $n$?,$O(n)$.
+Space complexity is the sum of _____ space and Input space.,Auxiliary
+Define Auxiliary Space.,The extra space or temporary memory used by an algorithm to solve a problem.
+Why should you generally avoid modifying the input data unless specifically asked by an interviewer?,Input data may contain essential information or credentials that should remain preserved.
+"If an algorithm creates a new list of size $n$ to solve a problem, its space complexity is _____.",$O(n)$
+What does the error acronym 'TLE' stand for in platforms like LeetCode?,Time Limit Exceeded.
+Approximately how many operations can a standard server perform in 1 second?,$10^{8}$ operations.
+Why would an $O(n^{2})$ algorithm fail with TLE if the input size $n$ is $10^{5}$?,The total operations ($10^{10}$) would far exceed the $10^{8}$ limit for a 1-second timeframe.
+Which complexity is generally required for an input size of $10^{5}$ to pass within a 1-second limit?,$O(n)$ or $O(n \log n)$.
+What is the time complexity of two independent (not nested) for-loops that each run $n$ times?,"$O(n)$ (since $n + n = 2n$, and constants are ignored)."
+What is the time complexity of a nested loop where the outer loop runs $n$ times and the inner loop runs $n$ times?,$O(n^{2})$.
+What is the time complexity of a nested loop where the inner loop runs from $1$ up to $i$ (the current outer loop index)?,$O(n^{2})$ (based on the sum of the first $n$ natural numbers).
+How does Python perform the membership operation `x in list` internally?,It iterates through the list one by one until the element is found or the list ends.
+The complexity $O(k + n)$ for list operations is often simplified to $O(n)$ because _____.,$n$ is typically the dominant term in the worst case.
+"In terms of Big O notation, what is $O(8n^{6} + 3n^{2} + 15)$ simplified?",$O(n^{6})$
+What is the average time complexity of copying an entire dictionary?,$O(n)$
+Why is Big O notation preferred over Omega or Theta in technical interviews?,Interviewer are primarily interested in the efficiency of the code under the most demanding (worst-case) conditions.
+What is the space complexity of an algorithm that only uses a few integer variables regardless of input size?,$O(1)$ (Constant space).
