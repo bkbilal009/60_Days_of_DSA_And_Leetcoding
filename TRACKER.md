@@ -22,7 +22,7 @@ Welcome to my intensive 2-month Data Structures and Algorithms tracking sheet! T
 
 | Day | Topic / Concept (Video Parts) | Resource Link | Status |
 |:---:|:---|:---:|:---:|
-| Mon | Part 1-4: Intro, Complexity, TLE, Python ops | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
+| Mon | Part 1-4: Intro, Complexity, TLE, Python ops | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ✅ |
 | Tue | Part 5-10: Digits, Palindrome, Factors, Hashmap basics | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
 | Wed | Part 11-14: Hashing + Recursion intro | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
 | Thu | Part 15-18: Factorial, Reverse array, Palindrome string, Fibonacci | [🎥 Watch Video](https://www.youtube.com/@codeanddebug) | ⬜ |
